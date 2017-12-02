@@ -1,6 +1,6 @@
 # awesome-tera-dsml [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of Tera Data Science &amp; Machine Learning for Business Bootcamp
+> A curated list of references shared along the [Tera Data Science &amp; Machine Learning for Business Bootcamp](http://somostera.com/cursos/data-science-for-business/)
 
 
 ## Contents
