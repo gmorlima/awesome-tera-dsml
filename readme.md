@@ -6,6 +6,7 @@
 ## Contents
 
 - [Aula 00: sample](#aula-00-sample)
+- [Aula 03: Python](#aula-03-python)
 - [Aula 27: Clustering](#aula-27-clustering)
 - [Aula 28: Topic Analysis](#aula-28-topic-analysis)
 
