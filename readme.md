@@ -5,16 +5,19 @@
 
 ## Contents
 
+- [Aula 00: sample](#aula-00-sample)
 - [Aula 27: Clustering](#aula-27-clustering)
 - [Aula 28: Topic Analysis](#aula-28-topic-analysis)
 
 
-## Section (sample)
+## Aula 00: sample
 
-About this section. Optional. Keep this short and focus on the list.
+Copy and paste this sample section. Follow the [Contribution Guidelines](contributing.md) and [Code of Conduct](code-of-conduct.md)
 
 - [List item](http://example.com)
 - [List item](http://example.com)
+
+
 
 
 ## Aula 27: Clustering
