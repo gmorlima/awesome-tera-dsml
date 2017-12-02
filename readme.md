@@ -12,7 +12,7 @@
 
 ## Aula 00: sample
 
-Copy and paste this sample section. Follow the [Contribution Guidelines](contributing.md) and [Code of Conduct](code-of-conduct.md)
+Copy and paste this sample section. Follow the [Contribution Guidelines](contributing.md).
 
 - [List item](http://example.com)
 - [List item](http://example.com)
