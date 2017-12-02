@@ -7,6 +7,8 @@
 
 - [Aula 00: sample](#aula-00-sample)
 - [Aula 03: Python](#aula-03-python)
+- [Aula 06: Introduction to SQL with Python](#aula-06-introduction-to-sql-with-python)
+- [Aula 07: Introduction to web scraping with Python](#aula-06-introduction-to-web-scraping-with-python)
 - [Aula 27: Clustering](#aula-27-clustering)
 - [Aula 28: Topic Analysis](#aula-28-topic-analysis)
 
@@ -36,6 +38,31 @@ Copy and paste this sample section. Follow the [Contribution Guidelines](contrib
 - [List Methods](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-3-functions-and-packages?ex=7)
 - [Import Package](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-3-functions-and-packages?ex=10)
 - [Python Tutor](http://pythontutor.com/)
+
+
+## Aula 06: Introduction to SQL with Python
+
+- [Relational Databases Overview](https://www.tutorialspoint.com/sql/sql-rdbms-concepts.htm)
+- [SQLite Tutorial](http://www.sqlitetutorial.net/)
+- [Learn HTML in 15 Minutes](https://www.youtube.com/watch?v=Ggh_y-33Eso)
+- [What is HTTP?](https://www.youtube.com/watch?v=SzSXHv8RKdM)
+- [Differences Between Get and Post - Web Development](https://www.youtube.com/watch?v=UObINRj2EGY)
+- [Learn to Program 8 : Reading / Writing Files](https://www.youtube.com/watch?v=EukxMIsNeqU)
+
+
+## Aula 07: Introduction to Web Scraping with Python
+
+
+## Aula 08: Numpy & Pandas
+
+- [Numpy](http://www.numpy.org/ )
+- [Numpy Quickstart](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html )
+- [Numpy Operations](http://www.scipy-lectures.org/intro/numpy/operations.html )
+- [Pandas](http://pandas.pydata.org/ )
+- [10 Minutes to Pandas](https://vimeo.com/59324550 )
+- [Pandas Documentation](http://pandas.pydata.org/pandas-docs/stable/ )
+- [Normal Distribution](https://en.wikipedia.org/wiki/Normal_distribution )
+
 
 ## Aula 27: Clustering
 
