@@ -5,8 +5,8 @@
 
 ## Contents
 
-- [Aula 27: Clustering](#clustering)
-- [Aula 28: Topic Analysis](#topic-analysis)
+- [Aula 27: Clustering](#aula-27-clustering)
+- [Aula 28: Topic Analysis](#aula-28-topic-analysis)
 
 
 ## Section (sample)
@@ -20,39 +20,20 @@ About this section. Optional. Keep this short and focus on the list.
 ## Aula 27: Clustering
 
 - [Getting your clustering right (Part 1)](https://www.analyticsvidhya.com/blog/2013/11/getting-clustering-right/)
-
-- [Getting your clustering right (Part 2)]
-(https://www.analyticsvidhya.com/blog/2013/11/getting-clustering-right-part-ii/)
-
-- [Curso Udacity - Unsupervised Learning]
-(https://classroom.udacity.com/courses/ud741)
-
-- [Exemplo interessante de clustering de consumidores]
-(http://www.ritchieng.com/machine-learning-project-customer-segments/)
+- [Getting your clustering right (Part 2)](https://www.analyticsvidhya.com/blog/2013/11/getting-clustering-right-part-ii/)
+- [Curso Udacity - Unsupervised Learning](https://classroom.udacity.com/courses/ud741)
+- [Exemplo interessante de clustering de consumidores](http://www.ritchieng.com/machine-learning-project-customer-segments/)
 
 
 ## Aula 28: Topic Analysis
 
-- [Conjunto de tutoriais sobre Topic Analysis]
-(https://de.dariah.eu/tatom/index.html)
-
-- [Comparação LDA, NMF e outros métodos]
-(http://aclweb.org/anthology/D/D12/D12-1087.pdf)
-
-- [Artigo original NMF]
-(http://www.columbia.edu/~jwp2128/Teaching/E4903/papers/nmf_nature.pdf)
-
-- [Artigo original LDA]
-(http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
-
-- [LDA2VEC: Utilizar LDA com Word2Vec]
-(https://www.datacamp.com/community/tutorials/lda2vec-topic-model#
-http://multithreaded.stitchfix.com/blog/2016/05/27/lda2vec/#topic=38&lambda=1&term=)
-
-- [Implementing your own recommender systems in Python]
-(https://cambridgespark.com/content/tutorials/implementing-your-own-recommender-systems-in-Python/index.html)
-- [Sistema de recomendação vencedor do prêmio Netflix]
-(https://www.netflixprize.com/assets/GrandPrize2009_BPC_BigChaos.pdf)
+- [Conjunto de tutoriais sobre Topic Analysis](https://de.dariah.eu/tatom/index.html)
+- [Comparação LDA, NMF e outros métodos](http://aclweb.org/anthology/D/D12/D12-1087.pdf)
+- [Artigo original NMF](http://www.columbia.edu/~jwp2128/Teaching/E4903/papers/nmf_nature.pdf)
+- [Artigo original LDA](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
+- [LDA2VEC: Utilizar LDA com Word2Vec](https://www.datacamp.com/community/tutorials/lda2vec-topic-model#http://multithreaded.stitchfix.com/blog/2016/05/27/lda2vec/#topic=38&lambda=1&term=)
+- [Implementing your own recommender systems in Python](https://cambridgespark.com/content/tutorials/implementing-your-own-recommender-systems-in-Python/index.html)
+- [Sistema de recomendação vencedor do prêmio Netflix](https://www.netflixprize.com/assets/GrandPrize2009_BPC_BigChaos.pdf)
 
 
 ## Contribute
