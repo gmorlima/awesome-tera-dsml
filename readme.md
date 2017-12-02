@@ -18,7 +18,23 @@ Copy and paste this sample section. Follow the [Contribution Guidelines](contrib
 - [List item](http://example.com)
 
 
+## Aula 03: Python
 
+- [Anaconda](https://docs.anaconda.com/)
+- [Jupyter Notebook Tutorial: Definitive Guide](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook)
+- [Jupyter Notebook Best Practices for Data Science](https://www.svds.com/tbt-jupyter-notebook-best-practices-data-science)
+- [Which is the fastest growing programming language? Hint, it's not JavaScript](http://www.techrepublic.com/google-amp/article/which-is-the-fastest-growing-programming-language-hint-its-not-javascript)
+- [Variables](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-1-python-basics?ex=7)
+- [Types](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-1-python-basics?ex=11)
+- [Type conversion](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-1-python-basics?ex=12)
+- [Lists & Types](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-2-python-lists?ex=3)
+- [List Grouping](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-2-python-lists?ex=5)
+- [Slicing and dicing](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-2-python-lists?ex=9)
+- [Built-in functions](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-3-functions-and-packages?ex=2)
+- [Multiple Arguments](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-3-functions-and-packages?ex=4)
+- [List Methods](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-3-functions-and-packages?ex=7)
+- [Import Package](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-3-functions-and-packages?ex=10)
+- [Python Tutor](http://pythontutor.com/)
 
 ## Aula 27: Clustering
 
